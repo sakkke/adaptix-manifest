@@ -4,4 +4,5 @@
   <default revision="main" />
   <project path="adaptix" name="sakkke/adaptix" remote="github" />
   <project path="adaptix-baseline" name="sakkke/adaptix-baseline" remote="github" />
+  <project path="adaptix-website" name="sakkke/adaptix-website" remote="github" />
 </manifest>
