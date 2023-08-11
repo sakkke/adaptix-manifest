@@ -6,4 +6,5 @@
   <project path="adaptix-baseline" name="sakkke/adaptix-baseline" remote="github" />
   <project path="adaptix-website" name="sakkke/adaptix-website" remote="github" />
   <project path="adaptix-docs" name="sakkke/adaptix-docs" remote="github" />
+  <project path="adaptix-releng" name="sakkke/adaptix-releng" remote="github" />
 </manifest>
